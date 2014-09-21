@@ -14,6 +14,8 @@ public class GitTest {
 	
 	private String csbb1;
 	
+	private String csbb2;
+	
 	
 	
 
