@@ -12,7 +12,7 @@ public class GitTest {
 	
 	private int a;
 	
-	
+	private int b;
 
 	public String getId() {
 		return id;
