@@ -24,6 +24,8 @@ public class GitTest {
    
    private String abcdefghizklmn;
    
+   private String yingwenchun;
+   
 	public String getId() {
 		return id;
 	}
