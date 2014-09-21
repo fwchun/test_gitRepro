@@ -9,7 +9,7 @@ public class GitTest {
 	private String gender;
 	
 	private String id;
-	
+	   
 	private int a;
 	
 	private String csbb1;
