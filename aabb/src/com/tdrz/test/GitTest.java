@@ -26,6 +26,9 @@ public class GitTest {
    
    private String yingwenchun;
    
+   private String abbb;
+   
+   
 	public String getId() {
 		return id;
 	}
