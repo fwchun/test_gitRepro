@@ -12,6 +12,9 @@ public class GitTest {
 	
 	private int a;
 	
+	private String csbb1;
+	
+	
 	
 
 	public String getId() {
