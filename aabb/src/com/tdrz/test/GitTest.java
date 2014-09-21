@@ -10,6 +10,9 @@ public class GitTest {
 	
 	private String id;
 	
+	private int a;
+	
+	
 
 	public String getId() {
 		return id;
