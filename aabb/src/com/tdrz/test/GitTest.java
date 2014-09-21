@@ -21,6 +21,8 @@ public class GitTest {
 	
    private String csbb3;
    
+   private String abcdefghizklmn;
+   
 	
 	public String getId() {
 		return id;
