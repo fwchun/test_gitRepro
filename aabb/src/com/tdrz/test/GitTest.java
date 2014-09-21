@@ -14,7 +14,8 @@ public class GitTest {
 	
 	private String csbb1;
 	
-   private String abcd;
+	   private String abcd;
+	private String csbb2;
    
 	
 	public String getId() {
