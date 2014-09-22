@@ -8,7 +8,7 @@ public class GitTest {
 	
 	private String gender;
 	
-	private String id;
+	private String id;    
 	   
 	private int a;
 	
