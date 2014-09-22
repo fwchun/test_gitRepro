@@ -31,6 +31,9 @@ public class GitTest {
    
    private String ggggggg;
    
+   
+   
+   private int u1;
 	public String getId() {
 		return id;
 	}
