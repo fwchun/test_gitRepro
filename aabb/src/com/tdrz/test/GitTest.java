@@ -33,6 +33,7 @@ public class GitTest {
    private String ggggggg;
    
    private String chongtuqiang;
+   private String chongtu1;
    
    private int u1;
 	public String getId() {
