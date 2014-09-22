@@ -1,6 +1,7 @@
 package com.tdrz.test;
 
 public class GitTest {
+	private String sss;
 
 	private String username;
 	
