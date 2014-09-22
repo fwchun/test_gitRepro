@@ -1,6 +1,8 @@
 package com.tdrz.test;
 
 public class GitTest {
+	
+	
 
 	private String username;
 	
@@ -26,7 +28,7 @@ public class GitTest {
    
    private String yingwenchun;
    
-   private String abbb;
+   private String abbb12;
    
    private String good;
    
@@ -36,6 +38,8 @@ public class GitTest {
    private String chongtu1;
    
    private int u1;
+   
+   
 	public String getId() {
 		return id;
 	}
