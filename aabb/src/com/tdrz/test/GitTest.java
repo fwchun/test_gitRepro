@@ -32,7 +32,7 @@ public class GitTest {
    
    private String ggggggg;
    
-   
+   private String chongtuqiang;
    
    private int u1;
 	public String getId() {
