@@ -28,7 +28,7 @@ public class GitTest {
    
    private String abbb;
    
-   prvate String good;
+   private String good;
    
    private String ggggggg;
    
